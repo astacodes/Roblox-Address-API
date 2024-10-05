@@ -2,7 +2,6 @@
 
 This document lists the addresses and descriptions of key functions used in the Roblox environment for script execution and manipulation.\
 *To convert decimal values to hexadecimal values, go [here](https://www.rapidtables.com/convert/number/decimal-to-hex.html?).*\
-*If it wasn't obvious enough, addresses can be found [here](https://github.com/astacodes/Roblox-Address-API/blob/main/addresses.json).*
 
 > [!WARNING]  
 > Addresses do **NOT** need to be rebased by 0x400000
