@@ -1,0 +1,17 @@
+{
+    "addresses": {
+        "DecryptGlobalState": "0xA89A70",
+        "FireProximityPrompt": "0x12FED769C",
+        "GetGlobalState": "0xCA7650",
+        "GetTaskScheduler": "0x2BEC3A0",
+        "LuaO_Pushvfstring": "0x2C8FC00",
+        "LuaU_Execute": "0x2544050",
+        "LuaVM_Load": "0xA8BFD0",
+        "Print": "0x120FFF0",
+        "PushInstance": "0xC85A40",
+        "Scresume": "0xCB46C0",
+        "TaskDefer": "0xDFF8C0"
+    },
+    "credits": "Dumped by Astacodes",
+    "version": "version-d2bde6b0a05e4840"
+}
