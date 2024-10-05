@@ -4,7 +4,7 @@ This document lists the addresses and descriptions of key functions used in the 
 *To convert decimal values to hexadecimal values, go [here](https://www.rapidtables.com/convert/number/decimal-to-hex.html?).*\
 
 > [!WARNING]  
-> Addresses do NOT need to be rebased by 0x400000
+> **Addresses do NOT need to be rebased by 0x400000**
 
 ## Function Addresses
 
