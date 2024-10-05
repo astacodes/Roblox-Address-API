@@ -24,4 +24,4 @@ This document lists the addresses and descriptions of key functions used in the 
 
 - **DecryptGlobalState**: Decrypts the global state for further manipulation.
 
-- **Print**: Outputs a message to the console or logs in the Roblox environment.
+- **Print**: Outputs a message to in the Roblox environment.
